@@ -1,0 +1,85 @@
+<RCC>
+    <qresource prefix="/Furina">
+        <file>Furina/2.png</file>
+        <file>Furina/4.png</file>
+        <file>Furina/8.png</file>
+        <file>Furina/16.png</file>
+        <file>Furina/32.png</file>
+        <file>Furina/64.png</file>
+        <file>Furina/128.png</file>
+        <file>Furina/256.png</file>
+        <file>Furina/512.png</file>
+        <file>Furina/1024.png</file>
+        <file>Furina/2048.png</file>
+        <file>Furina/4096.png</file>
+        <file>Furina/bg1.jpg</file>
+    </qresource>
+    <qresource prefix="/Wanderer">
+        <file>Wanderer/bg1.jpg</file>
+        <file>Wanderer/2.png</file>
+        <file>Wanderer/4.png</file>
+        <file>Wanderer/8.png</file>
+        <file>Wanderer/16.png</file>
+        <file>Wanderer/32.png</file>
+        <file>Wanderer/64.png</file>
+        <file>Wanderer/128.png</file>
+        <file>Wanderer/256.png</file>
+        <file>Wanderer/512.png</file>
+        <file>Wanderer/1024.png</file>
+        <file>Wanderer/2048.png</file>
+        <file>Wanderer/4096.png</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>scorebg1.png</file>
+        <file>scorebg2.png</file>
+        <file>dialogbg1.jpg</file>
+        <file>scorebg3.png</file>
+    </qresource>
+    <qresource prefix="/Xiao">
+        <file>Xiao/2.png</file>
+        <file>Xiao/4.png</file>
+        <file>Xiao/8.png</file>
+        <file>Xiao/16.png</file>
+        <file>Xiao/32.png</file>
+        <file>Xiao/64.png</file>
+        <file>Xiao/128.png</file>
+        <file>Xiao/256.png</file>
+        <file>Xiao/512.png</file>
+        <file>Xiao/1024.png</file>
+        <file>Xiao/bg1.jpg</file>
+        <file>Xiao/bg2.jpg</file>
+        <file>Xiao/2048.png</file>
+        <file>Xiao/4096.png</file>
+    </qresource>
+    <qresource prefix="/Barbatos">
+        <file>Barbatos/2.png</file>
+        <file>Barbatos/4.png</file>
+        <file>Barbatos/8.png</file>
+        <file>Barbatos/16.png</file>
+        <file>Barbatos/32.png</file>
+        <file>Barbatos/64.png</file>
+        <file>Barbatos/128.png</file>
+        <file>Barbatos/256.png</file>
+        <file>Barbatos/512.png</file>
+        <file>Barbatos/1024.png</file>
+        <file>Barbatos/2048.png</file>
+        <file>Barbatos/4096.png</file>
+        <file>Barbatos/bg1.jpg</file>
+    </qresource>
+    <qresource prefix="/Kaedehara_Kazuha">
+        <file>Kaedehara_Kazuha/2.png</file>
+        <file>Kaedehara_Kazuha/4.png</file>
+        <file>Kaedehara_Kazuha/8.png</file>
+        <file>Kaedehara_Kazuha/16.png</file>
+        <file>Kaedehara_Kazuha/32.png</file>
+        <file>Kaedehara_Kazuha/64.png</file>
+        <file>Kaedehara_Kazuha/128.png</file>
+        <file>Kaedehara_Kazuha/256.png</file>
+        <file>Kaedehara_Kazuha/512.png</file>
+        <file>Kaedehara_Kazuha/1024.png</file>
+        <file>Kaedehara_Kazuha/2048.png</file>
+        <file>Kaedehara_Kazuha/4096.png</file>
+        <file>Kaedehara_Kazuha/bg1.jpg</file>
+        <file>Kaedehara_Kazuha/bg2.jpg</file>
+    </qresource>
+</RCC>
